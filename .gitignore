@@ -23,3 +23,4 @@ build/
 lib/
 
 .DS_Store
+mono_kitti.sh
