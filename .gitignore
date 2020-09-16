@@ -21,6 +21,8 @@ Vocabulary/ORBvoc.txt
 build/
 *~
 lib/
+cmake-build-debug/
+.idea/
 
 .DS_Store
 mono_kitti.sh
